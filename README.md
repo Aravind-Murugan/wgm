@@ -35,6 +35,7 @@ npm install
 * react@18.2.0
 * react-dom@18.2.0
 * react-scripts@5.0.1
+* @lottiefiles/react-lottie-player@3.5.0 &emsp; -- **Installing this module package for PreLoader Lottie Json Player as gif**
 
 <br />
 
