@@ -11,6 +11,7 @@
   "homepage": "http://localhost/",
   "private": true,
   "dependencies": {
+    "@lottiefiles/react-lottie-player": "^3.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
